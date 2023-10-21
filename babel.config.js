@@ -1,5 +1,6 @@
 const PLUGIN_TRANSFORM_RUNTIME = '@babel/plugin-transform-runtime'
 const PLUGIN_STYLED_COMPONENTS = 'babel-plugin-styled-components'
+const deneme;
 
 const PRESET_REACT = '@babel/preset-react'
 const PRESET_ENV = '@babel/preset-env'
